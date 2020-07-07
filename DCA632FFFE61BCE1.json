@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "DCA632FFFE61BCE1",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 49.656928,
+    "ref_longitude": 6.940559,
+    "ref_altitude": 550,
+    "contact_email": "m.forster@forster-markus.de",
+    "description": "TTN Hermeskeil"
+  }
+}
